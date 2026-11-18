@@ -1,0 +1,6 @@
+{
+  "name": "AgriSwarm 3D OS",
+  "description": "Autonomous agricultural swarm robotics 3D simulator with decentralized P2P coordination, staggered solar charging, dynamic obstacle avoidance, and SQLite mission logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
